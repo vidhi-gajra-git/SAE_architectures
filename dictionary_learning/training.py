@@ -15,7 +15,7 @@ from tqdm import tqdm
 import wandb
 
 from .dictionary import AutoEncoder
-from .evaluation import evaluate
+# from .evaluation import evaluate
 from .trainers.standard import StandardTrainer
 
 
